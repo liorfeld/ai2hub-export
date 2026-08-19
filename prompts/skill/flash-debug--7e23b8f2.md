@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","פלאש","הבזק","flash","fouc","flicker","קופץ"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:59:27.134692+00:00"
 id: "7e23b8f2-3fc0-47ab-bd22-661ff0c01e86"
 ---
 

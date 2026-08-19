@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","graphify","graphrag","knowledge graph code","code+docs graph","leiden communities","pr impact graph"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:00:16.282292+00:00"
 id: "c9a0c950-15da-4a56-a507-4624d7d4674d"
 ---
 

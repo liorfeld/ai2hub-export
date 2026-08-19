@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","promote memory","memory full","memory.md cleanup","memory review","self","improving"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:10:36.179648+00:00"
 id: "5e2bba11-a9bd-47ef-bc29-eb7125535d4c"
 ---
 

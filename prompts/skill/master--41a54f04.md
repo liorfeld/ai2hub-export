@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","create article","write article","generate content","master","כללי ברזל","orchestrator"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:05:18.426563+00:00"
 id: "41a54f04-b5ee-458e-b31f-d8202af3140d"
 ---
 

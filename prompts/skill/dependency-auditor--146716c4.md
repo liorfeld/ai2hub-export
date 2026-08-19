@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","audit dependencies","check cve","license compliance","outdated packages","supply chain","npm audit"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:56:34.29927+00:00"
 id: "146716c4-8c38-44a0-8842-0dd40c98a1e8"
 ---
 

@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","strix","pentest agent","autonomous pentest","ai security testing","exploit poc","owasp scan"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:13:12.237385+00:00"
 id: "26e37ab5-9415-45a6-ac61-5be02887767e"
 ---
 

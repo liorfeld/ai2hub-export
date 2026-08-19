@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","no-mistakes","no mistakes","pre-push gate","push quality gate","clean pr gate","git proxy review"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:00:59.344176+00:00"
 id: "3165789a-89eb-4ab3-bbdd-d3f426313b6d"
 ---
 

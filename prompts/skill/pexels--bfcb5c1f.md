@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","pexels","b-roll","broll","stock video","stock footage","transition clip"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:08:09.535352+00:00"
 id: "bfcb5c1f-0e59-42bd-a946-08a87e68c2f2"
 ---
 

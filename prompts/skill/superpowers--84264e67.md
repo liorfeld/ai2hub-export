@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","superpowers"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:13:53.774268+00:00"
 id: "84264e67-d846-43be-be91-e6d731a93008"
 ---
 

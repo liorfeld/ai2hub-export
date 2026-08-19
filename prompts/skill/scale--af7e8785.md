@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","scale","model scale","which model","model routing","grok","openrouter"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:01:55.936771+00:00"
 id: "af7e8785-0f02-44f6-97f3-273a51e8883d"
 ---
 

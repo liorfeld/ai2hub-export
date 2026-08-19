@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","skillsmith","skill discovery","find a skill","search skills","agent skills registry","חיפוש skill"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:12:28.956601+00:00"
 id: "9e4b90e7-cfa8-4876-99be-b1a23fe41c6d"
 ---
 

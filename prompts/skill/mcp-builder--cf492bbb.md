@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","build mcp server","mcp integration","create mcp","mcp tool","fastmcp","modelcontextprotocol"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:05:31.886474+00:00"
 id: "cf492bbb-c818-4895-96c3-1b6cb2f70345"
 ---
 

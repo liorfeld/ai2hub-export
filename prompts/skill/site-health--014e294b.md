@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","site health","site-health","האתר לא עולה","ניטור אתרים","uptime","healthcheck לאתרים"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:11:33.400898+00:00"
 id: "014e294b-fe56-4b1d-a1ac-0cc8afdb46fa"
 ---
 

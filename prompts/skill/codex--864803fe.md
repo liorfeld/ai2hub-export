@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","codex","openai codex","omx","oh-my-codex","om","omd"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:54:56.30242+00:00"
 id: "864803fe-43dd-44fb-949d-633c49e58cab"
 ---
 

@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","agentshield","agent shield","סריקת אבטחה","scan claude config","security scan","audit config"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:52:27.469296+00:00"
 id: "f3cd718e-3e72-41fb-8a32-062f26adc478"
 ---
 

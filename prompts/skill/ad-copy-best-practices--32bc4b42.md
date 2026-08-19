@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","ad copy","headline gen","meta copy","google ads copy","ad text","responsive search ad"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:51:03.524192+00:00"
 id: "32bc4b42-cd0c-46a3-a171-85a61ff1a7ec"
 ---
 

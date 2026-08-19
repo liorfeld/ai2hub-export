@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","agentshield","security scan","scan config","סריקת אבטחה","audit claude config","prompt injection scan"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T04:34:51.455102+00:00"
 id: "3f7d4c05-6ef7-4504-bff1-9432ce2c4b22"
 ---
 

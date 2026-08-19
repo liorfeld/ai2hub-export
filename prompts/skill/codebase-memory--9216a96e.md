@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","codebase memory","codebase-memory-mcp","code graph","call graph","index repository","impact analysis"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:54:43.384882+00:00"
 id: "9216a96e-b6c1-4cf9-94b4-2b395f142f5f"
 ---
 

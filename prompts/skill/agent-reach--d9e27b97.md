@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","agent-reach","agent reach","read twitter","read reddit","youtube transcript","monitor rss"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:51:16.942997+00:00"
 id: "d9e27b97-0de6-40be-a321-b46649341cb6"
 ---
 

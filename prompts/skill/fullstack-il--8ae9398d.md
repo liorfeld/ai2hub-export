@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:12:16.024355+00:00"
 id: "8ae9398d-2609-4050-acd0-4c051d26a6ca"
 ---
 

@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","ponytail audit","ponytail-audit","whole repo over-engineering","remove dependencies","סריקת ניפוח","ניקוי ריפו"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:08:22.436796+00:00"
 id: "a1263ee5-bc1d-4cc6-ba15-fce3e417dedc"
 ---
 

@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","cli-anything","generate cli","agent-native cli","harness.md","software for agents","hkuds"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:54:02.1907+00:00"
 id: "53b1296a-1a10-4881-95d0-808557f3007d"
 ---
 

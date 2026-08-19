@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","review code","code review","check code quality","audit code","code smell","refactor review"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:54:28.522287+00:00"
 id: "c7071b91-5ac1-490d-90a9-7eb3dbc9b0f6"
 ---
 

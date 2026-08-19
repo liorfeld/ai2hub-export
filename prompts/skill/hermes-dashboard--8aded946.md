@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","hermes dashboard","hermes-dashboard","chrisryugj","hermes dashboard hub","hermes admin ui","hermes gateway dashboard"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:02:36.296918+00:00"
 id: "8aded946-3420-4006-bc8b-598bbac6c0cd"
 ---
 

@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","רוץ על הכל","אל תעצור","עד הסוף","לפי הסדר","בלי לשאול","run everything"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T04:32:40.145839+00:00"
 id: "e1ec6da1-0b4b-45be-9cb0-896cb44b7ac4"
 ---
 

@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","dockerfile","optimize image","reduce image size","container security","multi-stage build","docker-compose"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:57:59.259326+00:00"
 id: "bf69a158-1e2e-42f8-ad8d-bbc0867609ff"
 ---
 

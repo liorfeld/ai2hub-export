@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","worktrunk","wt switch","wt list","wt merge","git worktree","worktree"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T04:33:13.887228+00:00"
 id: "77ed732d-d8b2-418f-82a2-10ecdfeeaa18"
 ---
 

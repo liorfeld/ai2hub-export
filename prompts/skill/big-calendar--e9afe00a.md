@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","big calendar","react-big-calendar","לוח שנה","calendar component","scheduling ui","event calendar"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:53:37.414335+00:00"
 id: "e9afe00a-f745-4c7c-82f0-ae1f4fedb0fa"
 ---
 

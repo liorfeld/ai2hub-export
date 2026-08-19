@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","build artifact","web artifact","interactive html","shadcn artifact","react artifact","single html"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T04:31:50.884062+00:00"
 id: "815bd31b-2c8c-4d56-9c74-16339b22d22e"
 ---
 

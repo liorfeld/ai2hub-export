@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","higgsfield","higgsfield.ai","generate video","text to video","image to video","kling"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:03:07.910581+00:00"
 id: "2c6b640e-87ed-486d-b198-7e370cd86200"
 ---
 

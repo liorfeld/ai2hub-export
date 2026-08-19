@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","agentmemory","agent memory","ריבוי זיכרון","multi memory","persistent memory","local memory"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:51:57.715428+00:00"
 id: "3bb88800-10cf-4fcb-9684-9d24a059ea11"
 ---
 

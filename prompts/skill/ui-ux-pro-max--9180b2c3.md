@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","ui","ux","pro","max"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T04:29:22.434528+00:00"
 id: "9180b2c3-7702-43ab-8832-5b0c80c31c7a"
 ---
 

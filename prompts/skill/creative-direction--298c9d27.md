@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","create brand guide","lock voice","brand voice","creative direction","visual style guide","brand consistency"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:56:20.376149+00:00"
 id: "298c9d27-320c-4e5f-8d76-9be0667c43c0"
 ---
 

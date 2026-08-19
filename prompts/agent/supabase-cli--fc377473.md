@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","supabase","cli"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:24:37.200516+00:00"
 id: "fc377473-c844-4557-8307-23894c565367"
 ---
 

@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","konvert","usekonvert","ad research","competitor ads","winning ads","ad library"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:04:49.917818+00:00"
 id: "2673a6a4-0363-489c-8950-de1215829b7c"
 ---
 

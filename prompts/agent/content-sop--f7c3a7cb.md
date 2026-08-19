@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","content sop","הנחיות תוכן","guidelines table","כללי מאמר","יצירת מאמר","seo checklist"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:15:01.918637+00:00"
 id: "f7c3a7cb-be0d-48e1-bec6-6eb4494cc9a3"
 ---
 

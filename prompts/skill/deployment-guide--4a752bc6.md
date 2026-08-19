@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","claude rtl css","chat.fontsize","deployment","guide"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:56:47.796271+00:00"
 id: "4a752bc6-971a-4211-9957-9812c214f08c"
 ---
 

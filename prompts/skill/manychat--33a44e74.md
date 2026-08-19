@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","manychat"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:05:03.984497+00:00"
 id: "33a44e74-ff52-4816-bb1d-7b2740d96ae3"
 ---
 

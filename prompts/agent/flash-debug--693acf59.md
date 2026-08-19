@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","פלאש","הבזק","flash","fouc","flicker","מהבהב"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:16:25.862274+00:00"
 id: "693acf59-b8a6-4418-aa0f-6ec1d1367301"
 ---
 

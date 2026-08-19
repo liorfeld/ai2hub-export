@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","migrations"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:05:46.975405+00:00"
 id: "5ec3773f-d228-43c2-8724-9181b86b8272"
 ---
 

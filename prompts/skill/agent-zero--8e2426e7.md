@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","agent zero","agent-zero","agent0ai","autonomous agent platform","deploy agent zero","a0"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:51:45.314559+00:00"
 id: "8e2426e7-6da2-49de-bea4-dd2c60c2264d"
 ---
 

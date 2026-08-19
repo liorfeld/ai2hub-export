@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","babysitter"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:50:23.38672+00:00"
 id: "ab62c911-944f-44b3-8502-b725460715d8"
 ---
 

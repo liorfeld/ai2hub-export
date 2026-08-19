@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","gstack","garry tan","virtual engineering team","autoplan","sprint workflow skills","צוות הנדסה וירטואלי"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:02:09.944745+00:00"
 id: "518ec760-be95-4877-a43e-8bb6ad710ec8"
 ---
 

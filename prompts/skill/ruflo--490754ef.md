@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","ruflo","claude-flow","dual-mode","swarm","orchestrate agents","parallel agents מתקדם"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:01:39.726563+00:00"
 id: "490754ef-5c9e-4b3c-852c-35bdee2dcf28"
 ---
 

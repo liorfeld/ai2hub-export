@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","hermes workspace","hermes-workspace","outsourc-e","hermes ui","hermes dashboard ui","agent swarm dashboard"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:02:49.623432+00:00"
 id: "0e3e19e5-488a-41b4-9e9d-b9993c14e772"
 ---
 

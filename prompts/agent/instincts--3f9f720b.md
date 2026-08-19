@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","instinct","instincts","אינסטינקט","כלל מותנה","conditional rule","learned rule"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:18:53.20313+00:00"
 id: "3f9f720b-d2d0-4911-9e6e-99ff9454addc"
 ---
 

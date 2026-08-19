@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","simplex","simplex-chat","private alert","metadata-free messaging","simplex bot","encrypted notification"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:23:29.150215+00:00"
 id: "d4585cef-2ed9-40ca-b789-8f4dd39afa35"
 ---
 

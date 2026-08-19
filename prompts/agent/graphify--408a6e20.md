@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","graphify","graphrag","knowledge graph code","code+docs graph","pr impact graph","graph.json mcp"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:17:05.274886+00:00"
 id: "408a6e20-f0fe-407b-8958-31623101a74c"
 ---
 

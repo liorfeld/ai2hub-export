@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","ponytail"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:22:16.352134+00:00"
 id: "a49a4db6-2414-4b6b-9604-c287b3938218"
 ---
 

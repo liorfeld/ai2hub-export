@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","בדוק עיצוב","review ui","ביקורת ויזואלית","בדוק rtl","בדוק spacing","בדוק צבעים"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:23:01.887503+00:00"
 id: "66be5333-3c54-4d89-ae21-f49cc0d8220b"
 ---
 

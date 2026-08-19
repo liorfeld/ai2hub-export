@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","simplex","simplex-chat","private alert","metadata-free messaging","simplex bot","encrypted notification"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:11:19.405046+00:00"
 id: "dc8bcc6a-1d68-4ba3-8e19-a0d1a147b818"
 ---
 

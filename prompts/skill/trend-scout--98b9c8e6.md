@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","trend-scout","trends digest","trending repos","trendshift","github trending","daily repo report"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:14:07.318668+00:00"
 id: "98b9c8e6-22c2-4ab2-b377-69ef52ac1f23"
 ---
 

@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","test webapp","playwright test","browser automation","test running app","screenshot app","debug ui"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T04:32:07.244392+00:00"
 id: "311222ff-5b7a-43b6-84e8-a1e5fef7b5ea"
 ---
 

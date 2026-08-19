@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","native"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:06:55.025914+00:00"
 id: "5f21511e-8264-456b-8514-b482e8b4d2f4"
 ---
 

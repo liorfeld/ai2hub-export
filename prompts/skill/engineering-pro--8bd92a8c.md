@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","engineering pro","engineering quality","production reliability","security audit","incident","observability"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:58:25.25366+00:00"
 id: "8bd92a8c-055c-4caf-a16c-19789e3ce2e3"
 ---
 

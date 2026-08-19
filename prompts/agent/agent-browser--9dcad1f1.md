@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","agent-browser","browser cli","headless browser cli","dogfood site","web vitals cli","browser automation codex"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:44:21.481816+00:00"
 id: "9dcad1f1-d192-458d-ac2c-f9c37d7a52e2"
 ---
 

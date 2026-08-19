@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","patterstage"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:21:47.960232+00:00"
 id: "f8115c2f-c617-45ee-934c-34f35412d279"
 ---
 

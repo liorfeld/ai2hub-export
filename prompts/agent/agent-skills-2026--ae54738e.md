@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","review my code","code quality check","audit this function","create architecture diagram","draw system design","excalidraw"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T04:34:01.246408+00:00"
 id: "ae54738e-15d2-4645-8aeb-bb319b0f6b0c"
 ---
 

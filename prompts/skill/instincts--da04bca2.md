@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","instinct","instincts","אינסטינקט","כלל מותנה","תזכור שכש","learned rule"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:04:03.175802+00:00"
 id: "da04bca2-2a5a-4ba8-8506-ad81da296008"
 ---
 

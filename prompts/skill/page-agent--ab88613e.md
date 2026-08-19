@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","page-agent","page agent","in-page agent","dom agent","drive the page","browser gui agent"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:07:09.074268+00:00"
 id: "ab88613e-4f98-4a14-94f6-45ebe45ec844"
 ---
 

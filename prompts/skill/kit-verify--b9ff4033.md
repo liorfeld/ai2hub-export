@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","kit-verify","kit verify","verify kit","בדוק שהכל עובד","health check","fleet health"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:04:34.884047+00:00"
 id: "b9ff4033-3371-4ea1-9f85-2f4f456fa8f0"
 ---
 

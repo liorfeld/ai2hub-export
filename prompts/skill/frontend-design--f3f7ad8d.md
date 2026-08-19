@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","frontend","design"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:00:01.348573+00:00"
 id: "f3f7ad8d-5ce1-4a43-9995-79198fad33c2"
 ---
 

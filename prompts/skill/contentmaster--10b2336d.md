@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","create article","write article","generate content","content from url","blog post","affiliate article"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:55:51.883212+00:00"
 id: "10b2336d-8079-4571-afd9-8530bfce58cb"
 ---
 

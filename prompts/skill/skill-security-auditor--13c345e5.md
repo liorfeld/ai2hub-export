@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","audit this skill","scan skill","skill security check","security","auditor"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:11:59.301531+00:00"
 id: "13c345e5-a864-4093-8933-83cedad89f79"
 ---
 

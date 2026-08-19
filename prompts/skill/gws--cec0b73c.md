@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","gmail","google calendar","calendar event","send email","schedule meeting","google workspace"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:02:23.428796+00:00"
 id: "cec0b73c-6e11-460c-b437-abcb76bc4f7f"
 ---
 

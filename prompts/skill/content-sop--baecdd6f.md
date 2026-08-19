@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","sop","הנחיות תוכן","guidelines","כללי מאמר","יצירת מאמר","content rules"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:55:24.516726+00:00"
 id: "baecdd6f-0c2f-44a8-9ab5-15bbec6f5fef"
 ---
 

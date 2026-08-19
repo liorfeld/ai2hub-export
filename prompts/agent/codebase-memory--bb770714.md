@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","codebase memory","code graph","call graph","index repository","impact analysis","trace path"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:14:33.603161+00:00"
 id: "bb770714-c14b-411c-9cf6-de75623b6f16"
 ---
 

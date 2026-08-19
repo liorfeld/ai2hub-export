@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","write documentation","co-author doc","write proposal","technical spec","decision doc","write prd"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:57:46.33604+00:00"
 id: "465811d9-690f-4016-b36f-29000eed37d5"
 ---
 

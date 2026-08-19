@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","responsive","מובייל","התאם למסך","breakpoints","תהפוך לרספונסיבי","תתאים לכל המסכים"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:20:14.768753+00:00"
 id: "6583dcb6-b049-4784-bfb4-b8384ea76a4a"
 ---
 

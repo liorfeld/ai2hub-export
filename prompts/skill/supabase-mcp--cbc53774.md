@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","supabase mcp","supabase-mcp","register supabase mcp","supabase claude tool","supabase","mcp"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:13:38.461799+00:00"
 id: "cbc53774-c137-45b7-87f9-9044f6313e93"
 ---
 

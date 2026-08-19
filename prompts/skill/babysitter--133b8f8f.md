@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","babysitter","babysit","deterministic orchestration","process as code","long running task","resume run"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T05:53:24.55937+00:00"
 id: "133b8f8f-a535-4fac-8e97-48774f6e2cd4"
 ---
 

@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","strix","autonomous pentest","ai security testing","exploit poc","owasp scan","vulnerability agent"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:24:25.257835+00:00"
 id: "3a2a6a1f-d546-4228-8721-92ac7e240452"
 ---
 

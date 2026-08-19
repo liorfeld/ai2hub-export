@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","create new skill","build skill","improve skill","eval skill","benchmark skill","skill quality"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T01:08:05.47331+00:00"
+updated_at: "2026-08-18T06:11:46.777639+00:00"
 id: "c1089141-bfca-4ef4-9dba-c61907608a01"
 ---
 
