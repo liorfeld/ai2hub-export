@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","site","health"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:23:42.131797+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "20c76919-3a1b-4b82-b63b-08ba1e6d2a8c"
 ---
 

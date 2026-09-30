@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","בדוק עיצוב","review ui","ביקורת ויזואלית","בדוק rtl","בדוק spacing","בדוק צבעים"]
 model_hint: "opus"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:25:20.511387+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "289a6d1e-d56a-4566-9da3-7e0b094cb876"
 ---
 

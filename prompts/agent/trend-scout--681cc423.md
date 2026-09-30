@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","trend-scout","trends digest","trending repos","trendshift","github trending","daily repo report"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:25:05.091362+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "681cc423-77c2-4f76-aed8-dde58cd5c141"
 ---
 

@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","higgsfield","generate video","image to video","upscale video","remove background","voice clone"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:18:38.249382+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "06b8374f-0b02-4bf4-ab43-9f179efb5bb4"
 ---
 

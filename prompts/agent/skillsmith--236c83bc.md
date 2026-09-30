@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","skillsmith","skill discovery","find a skill","search skills","חיפוש skill","יש כבר skill"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:23:55.393012+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "236c83bc-7b34-42e2-9fc7-06ad534b6fdc"
 ---
 

@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","stitch","סטיץ","design-md","stitch-loop","enhance-prompt","react-components"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:24:11.277229+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "cb823629-9561-4bb1-bff5-234c7dac84dc"
 ---
 

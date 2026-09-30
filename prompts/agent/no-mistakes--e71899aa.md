@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","no-mistakes","pre-push gate","push quality gate","clean pr gate","git proxy review","auto-fix before push"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:20:55.076413+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "e71899aa-48c9-4bae-b361-bfe82be104cf"
 ---
 

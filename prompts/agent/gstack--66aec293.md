@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","gstack","garry tan","virtual engineering team","autoplan","sprint workflow skills"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:17:31.704288+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "66aec293-6963-4c56-a9b9-273ee91d4126"
 ---
 

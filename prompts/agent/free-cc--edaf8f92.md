@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","free-claude-code","free cc","fcc","local model gateway","free","cc"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:16:38.871697+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "edaf8f92-9197-456e-bb14-2e4f0828541e"
 ---
 

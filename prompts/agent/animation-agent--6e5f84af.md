@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","use client","animations"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T04:35:09.146149+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "6e5f84af-8c90-441c-aacc-67b1ab8edd22"
 ---
 

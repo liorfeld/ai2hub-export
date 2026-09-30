@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","konvert","ad research","competitor ads","winning ads","swipe file","hooks"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:19:20.909329+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "3f40210d-d029-4365-9a52-ea9438c24922"
 ---
 

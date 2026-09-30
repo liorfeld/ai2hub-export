@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","kanban"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:19:05.538891+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "602c6eb5-0cef-4bf1-b251-729c40dfceb3"
 ---
 

@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","hermes"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:18:24.943887+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "ef0cfa82-4ceb-473a-9b79-5ce0611f6a74"
 ---
 

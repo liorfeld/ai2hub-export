@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","ruflo","dual-mode","claude-flow","הפעל swarm","orchestrate","claude + codex"]
 model_hint: "opus"
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:21:08.118733+00:00"
+updated_at: "2026-09-30T00:10:22.903564+00:00"
 id: "b7f38946-d5dc-4c86-955f-1945c5bdeadd"
 ---
 
