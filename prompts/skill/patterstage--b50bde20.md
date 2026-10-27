@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","patterstage","control hub","hermes control hub","daniel-parke","hermes command center","hermes gui"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:07:37.408399+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "b50bde20-430b-4103-ad77-b928cc20ddb9"
 ---
 

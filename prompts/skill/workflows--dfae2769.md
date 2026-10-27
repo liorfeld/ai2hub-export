@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","workflows"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T04:32:57.240065+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "dfae2769-16e2-4c2b-8302-e1489981814d"
 ---
 

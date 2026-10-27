@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","parallel","strategy"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:07:23.506983+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "8e871a3e-2a7b-4c23-a174-fb0f69e4dacb"
 ---
 

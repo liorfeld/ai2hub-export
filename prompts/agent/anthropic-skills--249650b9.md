@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","build mcp","mcp server","create new skill","improve skill","eval skill","benchmark skill"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-09-30T00:10:22.903564+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "249650b9-b3be-4fbe-9340-3c37c227d9cc"
 ---
 

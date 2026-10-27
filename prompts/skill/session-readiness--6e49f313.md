@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","permissions modal","first-run setup","device readiness","ask for camera/mic/gps/notifications","pwa install prompt","enable notifications"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:10:51.14344+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "6e49f313-d02d-42e5-836b-6aaf84e9b3c0"
 ---
 

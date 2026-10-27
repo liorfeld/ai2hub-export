@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","gsd"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:00:45.486042+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "4cb058c0-a771-4a2c-ae84-5931f1add182"
 ---
 

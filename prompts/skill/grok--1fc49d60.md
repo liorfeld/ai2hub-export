@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","grok","grok cli","grok 4.6","xai","x.ai","grok build"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:00:32.16885+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "1fc49d60-da8c-4102-85c3-5feea544257c"
 ---
 

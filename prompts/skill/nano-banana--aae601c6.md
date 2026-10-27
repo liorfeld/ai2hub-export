@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","nano banana","nano-banana","gemini image","generate image","transparent png","transparent background"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:06:43.030774+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "aae601c6-7d31-4582-93df-da8141ef9d28"
 ---
 

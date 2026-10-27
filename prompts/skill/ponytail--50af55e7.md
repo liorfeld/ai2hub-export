@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","ponytail","be lazy","lazy mode","simplest solution","minimal solution","yagni"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:08:52.264397+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "50af55e7-4bf9-4f29-b742-7c51330c5daf"
 ---
 

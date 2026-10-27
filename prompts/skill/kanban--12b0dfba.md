@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","kanban","קנבן","לוח שיבוץ","לוח משימות","dnd-kit","גרירת כרטיסים"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:57:24.223099+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "12b0dfba-0dcd-4a84-a5c4-a67db40c248c"
 ---
 

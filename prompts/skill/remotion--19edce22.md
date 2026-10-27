@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","remotion"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:09:49.221542+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "19edce22-c8a5-4e5a-b068-2a2cc1900bc3"
 ---
 

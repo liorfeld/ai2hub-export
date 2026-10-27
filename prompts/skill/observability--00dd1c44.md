@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","slo","sli","observability","monitoring design","alert fatigue","burn rate"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:01:12.330669+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "00dd1c44-d2fe-4868-9de3-f1870b6235dd"
 ---
 

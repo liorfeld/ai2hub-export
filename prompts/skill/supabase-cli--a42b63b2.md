@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","supabase cli","supabase-cli","supabase link","supabase db push","supabase migration","supabase functions"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:13:25.587719+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "a42b63b2-2025-4a05-9ab2-44aee2c93756"
 ---
 

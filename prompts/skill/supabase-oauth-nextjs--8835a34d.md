@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","supabase","oauth","nextjs"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:26:00.659713+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "8835a34d-0008-4a9c-9900-226e7846ec2b"
 ---
 

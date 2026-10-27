@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","whats-new","בזמן שלא היית","session greeting","kit hello","why no greeting","whats"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-09-30T00:10:22.903564+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "849b136f-90b8-452e-8f8f-2582f684ca39"
 ---
 

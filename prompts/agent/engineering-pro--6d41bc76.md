@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","audit this skill","production down","service outage","incident","slo","sli"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-09-30T00:10:22.903564+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "6d41bc76-3690-437b-a38c-9de924fe065e"
 ---
 

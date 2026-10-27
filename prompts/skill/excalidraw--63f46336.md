@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","create diagram","architecture diagram","draw system","excalidraw","visualize architecture","sequence diagram"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T05:58:38.626414+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "63f46336-d344-43b5-9ba2-ffc62ad4a96b"
 ---
 

@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","ponytail review","ponytail-review","review for over-engineering","delete-list","trim the diff","מה למחוק"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:08:38.317178+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "a7671812-0d26-41c9-b645-32de9daebc1d"
 ---
 

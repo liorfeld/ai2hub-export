@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","production down","service outage","incident response","post-mortem","pir","what happened"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:03:48.309371+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "73667a2a-57be-46dc-9bf2-095d95d63b71"
 ---
 

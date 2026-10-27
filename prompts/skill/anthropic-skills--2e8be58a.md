@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","anthropic skills","mcp builder","skill creator","doc coauthoring","web artifact","webapp testing"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T05:52:39.989221+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "2e8be58a-5d75-4061-b662-b5b01168bcbf"
 ---
 

@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","security"]
 model_hint: "opus"
 author: "Lior Feldman"
-updated_at: "2026-09-30T00:10:22.903564+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "8d25a61d-a2d3-4ab0-a3c9-beb160c1277d"
 ---
 

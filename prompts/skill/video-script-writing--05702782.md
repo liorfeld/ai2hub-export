@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","video script","reel script","video ad","8s ad","15s ad","tiktok script"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T05:50:09.406941+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "05702782-9c22-4986-abdf-84bb38772db1"
 ---
 

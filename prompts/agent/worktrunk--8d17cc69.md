@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","worktrunk","wt switch","wt merge","git worktree","parallel agents","branch per agent"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-09-30T00:10:22.903564+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "8d17cc69-1a51-4d79-9ebd-487fd9757ae8"
 ---
 

@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","ביקורת מלאה","review all","full review","בדוק הכל","review","all"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:10:03.13945+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "5d8a5e77-17d7-41fe-8c52-e85a59fdc907"
 ---
 

@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","write spec first","define acceptance criteria","spec before code","feature requirements","fr","given/when/then"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:12:44.378873+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "4694a8af-02d3-4af5-bfd2-24b20868d120"
 ---
 

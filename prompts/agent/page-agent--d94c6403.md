@@ -4,7 +4,7 @@ type: "agent"
 tags: ["kit","agent","page-agent","in-page agent","dom agent","drive the page","browser gui agent","page"]
 model_hint: "claude-sonnet-4-6"
 author: "Lior Feldman"
-updated_at: "2026-09-30T00:10:22.903564+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "d94c6403-bacf-4575-8c87-cbc1c66e5850"
 ---
 

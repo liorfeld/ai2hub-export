@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","image prompt","ideogram prompt","flux prompt","ad image prompt","creative prompt","image"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:03:35.307177+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "cee68fc7-2fd3-4314-9bba-c8e1baf4460e"
 ---
 

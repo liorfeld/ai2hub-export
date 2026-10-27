@@ -4,7 +4,7 @@ type: "skill"
 tags: ["kit","skill","keyboard shortcuts","hotkeys","shortcut system","tooltip","keyboard navigation","shortcuts dialog"]
 model_hint: null
 author: "Lior Feldman"
-updated_at: "2026-08-18T06:04:19.40992+00:00"
+updated_at: "2026-10-26T19:55:11.577412+00:00"
 id: "9e5ae332-32aa-44d4-8f76-4513c972f9f2"
 ---
 
